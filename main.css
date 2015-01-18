@@ -27,7 +27,7 @@
 
 .jumbotron {
   background-image:url('http://37.media.tumblr.com/42913932864901353fcd6775b29a1cbf/tumblr_n9xaksnNOz1s2rrw7o3_1280.jpg');
-  height: 500px;
+  height: 700px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -49,16 +49,22 @@
   color: #363232;
 }
 
-.learn-more {
+.about {
   background-color: #f7f7f7;
 }
 
-.learn-more h3 {
+.jumbotron .container {
+  position: relative;
+  top:50px;
+}
+
+.about h3 {
   font-family: 'Shift', sans-serif;
-  font-size: 18px;
+  font-size: 40px;
   font-weight: bold;
 }
 
-.learn-more a {
+.about a {
   color: #00b0ff;
+   font-size: 20px;
 }
