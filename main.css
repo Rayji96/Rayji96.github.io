@@ -2,9 +2,63 @@
   color: #5a5a5a;
   font-size: 11px;
   font-weight: bold;
-  padding-top: 14px;
-  padding-bottom: 14;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 14px 10px;
   text-transform: uppercase;
-  }
+}
+
+.nav li {
+  display: inline;
+}
+
+.neighborhood-guides{
+    background-color:#efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.neighborhood-guides h2 {
+    color:#393c3d;
+    font-size: 24px;
+}
+
+.neighborhood-guides p {
+    margin-bottom: 13px;
+    font-size: 15px;
+}
+
+.jumbotron {
+  background-image:url('http://37.media.tumblr.com/42913932864901353fcd6775b29a1cbf/tumblr_n9xaksnNOz1s2rrw7o3_1280.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #1c1414;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #363232;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
