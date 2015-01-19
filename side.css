@@ -11,8 +11,8 @@
 }
 
 .jumbotron {
-  background-image:url('http://37.media.tumblr.com/42913932864901353fcd6775b29a1cbf/tumblr_n9xaksnNOz1s2rrw7o3_1280.jpg');
-  height: 600px;
+  background-image:url('http://www.creativeapplications.net/wp-content/uploads/2012/05/Anfischer_Schwarm_rot_02.jpg');
+  height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -29,27 +29,13 @@
   font-weight: bold;
 }
 
-.jumbotron p {
-  font-size: 20px;
-  color: #363232;
-}
-
-.about {
-  background-color: #f7f7f7;
-}
-
-.jumbotron .container {
-  position: relative;
-  top:50px;
-}
-
-.about h3 {
+.contact h3 {
   font-family: 'Shift', sans-serif;
   font-size: 40px;
   font-weight: bold;
 }
 
-.about a {
-  color: #00b0ff;
+
+.contact p {
    font-size: 20px;
 }
