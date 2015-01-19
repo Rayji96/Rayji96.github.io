@@ -1,6 +1,8 @@
 .nav {
   position: fixed;
   z-index: 1;
+  background-color:#FFFFFF;
+  background-size: cover;
 }
 
 .nav a {
